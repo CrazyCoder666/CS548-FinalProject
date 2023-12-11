@@ -10,7 +10,7 @@ app.use(cors())
 
 mongoose.connect(
 
-  "mongodb+srv://songdeming666:songdeming666@cluster0.zxmh4aa.mongodb.net/Library_System?retryWrites=true&w=majority"
+  "mongodb+srv://userID:Password@cluster0.zxmh4aa.mongodb.net/Library_System?retryWrites=true&w=majority"
 
 )
 
